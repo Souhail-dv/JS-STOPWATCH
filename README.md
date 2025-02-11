@@ -5,6 +5,7 @@ A simple and efficient stopwatch built using HTML, CSS, and JavaScript. This app
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -16,6 +17,10 @@ A simple and efficient stopwatch built using HTML, CSS, and JavaScript. This app
 - Displays elapsed time in hours, minutes, seconds, and milliseconds
 - Responsive design for various screen sizes
 - User-friendly interface
+
+## Demo
+
+Experience the live demo of the stopwatch: [JavaScript Stopwatch Demo](https://souhail-dv.github.io/JS-STOPWATCH/)
 
 
 ## Installation
