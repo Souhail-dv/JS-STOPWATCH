@@ -4,3 +4,8 @@ body{
     align-items: center;
     background-color: hsl(0, 0%, 90%);
 }
+#myH1{
+    font-size: 4rem;
+    font-family: "Arial", sans-serif;
+    color: hsl(0, 0%, 25%);
+}
