@@ -44,3 +44,6 @@ body{
 #startBtn:hover{
     background-color: hsl(115, 100%, 30%);
 }
+#stopBtn{
+    background-color: hsl(10, 90%, 50%);
+}
