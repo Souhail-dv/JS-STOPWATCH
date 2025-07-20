@@ -50,3 +50,6 @@ body{
 #stopBtn:hover{
     background-color: hsl(10, 90%, 40%);
 }
+#resetBtn{
+    background-color: hsl(205, 90%, 60%);
+}
