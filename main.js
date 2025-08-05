@@ -26,3 +26,7 @@ function reset(){
     isRunning = false;    
     display.textContent = "00:00:00:00";
 }
+function update(){
+    
+    const currentTime = Date.now();
+    elapsedTime = currentTime - startTime;
